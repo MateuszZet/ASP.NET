@@ -1,0 +1,11 @@
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\bin\Debug\netcoreapp2.0\ASP.NET.deps.json
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\bin\Debug\netcoreapp2.0\ASP.NET.runtimeconfig.json
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\bin\Debug\netcoreapp2.0\ASP.NET.runtimeconfig.dev.json
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\bin\Debug\netcoreapp2.0\ASP.NET.dll
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\bin\Debug\netcoreapp2.0\ASP.NET.pdb
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASP.NET.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASP.NET.dll
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASP.NET.pdb

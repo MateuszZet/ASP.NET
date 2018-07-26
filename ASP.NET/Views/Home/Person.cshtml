@@ -1,0 +1,17 @@
+﻿@model ASP.NET.Models.Person
+
+@{
+    ViewData["Title"] = "Person";
+}
+
+<h2>Add Person</h2>
+
+<h4>Person</h4>
+@using (Html.BeginForm("Person", "Home"))
+{
+    @Html.EditorFor(m => m)
+
+    <input type="submit" value="Add" />
+
+}
+

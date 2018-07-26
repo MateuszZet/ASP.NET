@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ASP.NET",
+    "\\ASP.NET\\Views",
+    "\\ASP.NET\\Views\\Shared",
+    "\\ASP.NET\\wwwroot\\lib\\bootstrap",
+    "\\ASP.NET\\wwwroot\\lib\\bootstrap\\dist",
+    "\\ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css",
+    "\\ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\fonts",
+    "\\ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js",
+    "\\ASP.NET\\wwwroot\\lib\\jquery",
+    "\\ASP.NET\\wwwroot\\lib\\jquery-validation",
+    "\\ASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive",
+    "\\ASP.NET\\wwwroot\\lib\\jquery-validation\\dist"
+  ],
+  "SelectedNode": "\\ASPNET.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,4 @@
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASPNET.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASPNET.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\ASP.NET\ASP.NET\obj\Debug\netcoreapp2.0\ASPNET.AssemblyInfo.cs
